@@ -21,34 +21,49 @@ I am a **Computer Science Student** (2nd Year) with a passion for building softw
 
 ---
 
-### 🛠 Languages and Tools
-<!-- تم استخدام p align="left" لجعلها FlowLayout (بجانب بعضها) -->
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="45" height="45"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="sql" width="45" height="45"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="45" height="45"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="45" height="45"/>
-</p>
+### Talking about Personal Stuff:
 
----
+<img align="right" height="250" width="375" alt="coder gif" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
-### 📊 GitHub Stats
-<p align="left">
-  <!-- تم تحديث الروابط لضمان العرض الصحيح وحل مشكلة الصور المكسورة -->
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Abdola-ElMala&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdola-ElMala&layout=compact&langs_count=6&theme=radical" />
-</p>
+- 🛠 &nbsp; I’m currently working with **C++, Java, and SQL**.
+- 🚀 &nbsp; I’m currently exploring **Networking and Web Fundamentals**.
+- 💬 &nbsp; Ask me anything! I am happy to help and collaborate.
+- 👾 &nbsp; Fun fact: Technology is best when it brings people together.
+- 📫 &nbsp; Reach me out: **abdallahelmalaofficial@gmail.com**
 
----
+### My Absolute Favorites:
 
-### ✨ Random Dev Quote
-<p align="left">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
-</p>
+- 💻 &nbsp; I love exploring new technologies and building cool stuff.
+- 📰 &nbsp; Reading, writing & watching Tech Stuff whenever possible.
+- 🍕 &nbsp; Meetups & Tech Events & Hackathons.
 
-<br />
+### Languages and Tools:
+
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="sql"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
+
+### Projects and Dev Stuffs:
+
+<details>
+  <summary><b>⚡ Github Stats</b></summary>
+  <br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abdola-ElMala&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdola-ElMala&layout=compact&langs_count=8&theme=radical"/>
+</details>
+
+<details>
+  <summary><b>🔥 Github Streaks</b></summary>
+  <br />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdola-ElMala&theme=radical" />
+</details>
+
+#
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" width="300" />
+
+### Show some ❤️ by starring some of the repositories!
+
 </div>
