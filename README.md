@@ -1,14 +1,16 @@
 <div align="center">
 
-# عبدالله الملا | Abdallah El Mala
+# 𝒜𝒷𝒹𝒶𝓁𝓁𝒶𝒽 𝐸𝓁 𝑀𝒶𝓁𝒶 | عبدالله الملا
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abdallahelmala)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:abdallahelmalaofficial@gmail.com)
 
+</div>
+
 ---
 
 ### 👨‍💻 About Me 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Abdola-ElMala&label=Profile%20views&color=0e75b6&style=flat" alt="Abdola-ElMala" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Abdola-ElMala&label=Profile%20views&color=0e75b6&style=flat" alt="Abdola-ElMala" /> </p>
 
 I am a **Computer Science Student** (2nd Year) with a passion for building software and exploring how data moves across the world. I enjoy solving problems and turning logic into code.
 
@@ -21,7 +23,7 @@ I am a **Computer Science Student** (2nd Year) with a passion for building softw
 
 ### 🛠 Languages and Tools
 
-<p align="center">
+<p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="45" height="45"/> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="45" height="45"/> &nbsp;
@@ -33,16 +35,20 @@ I am a **Computer Science Student** (2nd Year) with a passion for building softw
 
 ### 📊 GitHub Stats
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abdola-ElMala&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdola-ElMala&layout=compact&langs_count=6&theme=radical" />
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abdola-ElMala&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdola-ElMala&layout=compact&langs_count=6&theme=radical" />
+</p>
 
 ---
 
 ### ✨ Random Dev Quote
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
+<p align="left">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
+</p>
 
 <br />
 
-<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" width="300" />
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" width="300" />
 </div>
