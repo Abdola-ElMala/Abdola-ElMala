@@ -9,7 +9,7 @@
 
 ---
 ### 🚀 Quick Bio
-2nd Year CS Student passionate about **Software Development** & **Networking**. Building logic with **C++**, **Java** & **Web Tech** while exploring how data flows globally. 🌐
+CS Student at 6 October university passionate about **Software Development** & **Networking**. Building logic with **C++**, **Java** & **Web Tech** while exploring how data flows globally. 🌐
 
 <p align="left">
   <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
